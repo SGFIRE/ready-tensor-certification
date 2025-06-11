@@ -1,0 +1,17 @@
+### 2. requirements.txt
+```txt
+# Core dependencies
+gradio>=4.0.0
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+google-generativeai>=0.3.0
+faiss-cpu>=1.7.4
+
+# Additional utilities
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional dependencies for enhanced functionality
+streamlit>=1.28.0  # Alternative to Gradio
+plotly>=5.15.0     # For data visualization
