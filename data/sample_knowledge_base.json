@@ -1,0 +1,45 @@
+{
+  "company": {
+    "name": "Ready Tensor",
+    "founded": 2020,
+    "mission": "Making AI accessible to everyone",
+    "headquarters": "San Francisco, CA",
+    "employees": 150,
+    "sectors": ["Machine Learning", "Data Science", "AI Tools"]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "ML Platform",
+      "description": "Complete machine learning platform for businesses",
+      "features": ["AutoML", "Model Deployment", "Data Pipeline", "Monitoring"],
+      "pricing": "Starting at $99/month",
+      "target_audience": "Data Scientists, ML Engineers"
+    },
+    {
+      "id": 2,
+      "name": "AI Tools Suite",
+      "description": "Ready-to-use AI tools for common business problems",
+      "features": ["NLP Tools", "Computer Vision", "Recommendation Engine", "Forecasting"],
+      "pricing": "Starting at $49/month",
+      "target_audience": "Business Analysts, Developers"
+    }
+  ],
+  "services": {
+    "consulting": {
+      "description": "Expert AI consulting services",
+      "duration": "3-12 months",
+      "team_size": "3-8 experts"
+    },
+    "training": {
+      "description": "Comprehensive AI/ML training programs",
+      "formats": ["Online", "In-person", "Hybrid"],
+      "duration": "1-6 weeks"
+    }
+  },
+  "support": {
+    "channels": ["Email", "Chat", "Phone", "Documentation"],
+    "response_time": "24 hours",
+    "availability": "24/7"
+  }
+}
